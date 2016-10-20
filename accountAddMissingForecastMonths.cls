@@ -1,4 +1,3 @@
-// Header Comment for this class
 public class accountAddMissingForecastMonths {
 
     Account currentAccount;
